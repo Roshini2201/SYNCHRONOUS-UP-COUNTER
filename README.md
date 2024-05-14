@@ -41,15 +41,13 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.Repeat steps 2-4 for each bit you want to input and shift.  
 
+### Developed by: ROSHINI S
+### RegisterNumber: 212223240142  
 
 
 **PROGRAM**
+ 
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.   
-
-Developed by: ROSHINI S
-RegisterNumber: 212223240142  
-*/
 
 ![328827668-5d109724-4c8f-4cd4-9338-9e45d4b70dce](https://github.com/Roshini2201/SYNCHRONOUS-UP-COUNTER/assets/154105318/bc5af006-fde5-4128-8b82-cab6f6f9f023)
 
